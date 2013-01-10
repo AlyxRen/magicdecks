@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="2">
+    <cards>
+        <card>
+            <name>Soldier</name>
+            <set picURL="" picURLHq="" picURLSt="">TK</set>
+            <color>w</color>
+            <manacost></manacost>
+            <type>Token</type>
+            <pt>1/1</pt>
+            <tablerow>0</tablerow>
+            <text></text>
+            <token>1</token>
+        </card>
+    </cards>
+</cockatrice_carddatabase>
