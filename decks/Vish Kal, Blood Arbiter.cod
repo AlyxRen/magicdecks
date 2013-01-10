@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Vish Kal, Blood Arbiter</deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" price="0" name="Vish Kal, Blood Arbiter"/>
+    </zone>
+    <zone name="main">
+        <card number="1" price="0" name="Angel of Despair"/>
+        <card number="1" price="0" name="Avacyn, Angel of Hope"/>
+        <card number="1" price="0" name="Baneslayer Angel"/>
+        <card number="1" price="0" name="Butcher of Malakir"/>
+        <card number="1" price="0" name="Fiend Hunter"/>
+        <card number="1" price="0" name="Intrepid Hero"/>
+        <card number="1" price="0" name="Loyal Sentry"/>
+        <card number="1" price="0" name="Mortivore"/>
+        <card number="1" price="0" name="Mikaeus, the Unhallowed"/>
+        <card number="1" price="0" name="Phyrexian Obliterator"/>
+        <card number="1" price="0" name="Reya Dawnbringer"/>
+        <card number="1" price="0" name="Sheoldred, Whispering One"/>
+        <card number="1" price="0" name="Solemn Simulacrum"/>
+        <card number="1" price="0" name="Stoneforge Mystic"/>
+        <card number="1" price="0" name="Stuffy Doll"/>
+        <card number="1" price="0" name="Sun Titan"/>
+        <card number="1" price="0" name="Ashnod's Altar"/>
+        <card number="1" price="0" name="Champion's Helm"/>
+        <card number="1" price="0" name="Darksteel Plate"/>
+        <card number="1" price="0" name="Deathrender"/>
+        <card number="1" price="0" name="Gilded Lotus"/>
+        <card number="1" price="0" name="Grappling Hook"/>
+        <card number="1" price="0" name="Jar of Eyeballs"/>
+        <card number="1" price="0" name="Lashwrithe"/>
+        <card number="1" price="0" name="Orzhov Signet"/>
+        <card number="1" price="0" name="Phyrexian Altar"/>
+        <card number="1" price="0" name="Sculpting Steel"/>
+        <card number="1" price="0" name="Sol Ring"/>
+        <card number="1" price="0" name="Whispersilk Cloak"/>
+        <card number="1" price="0" name="Enlightened Tutor"/>
+        <card number="1" price="0" name="Entomb"/>
+        <card number="1" price="0" name="Mortify"/>
+        <card number="1" price="0" name="Oblation"/>
+        <card number="1" price="0" name="Austere Command"/>
+        <card number="1" price="0" name="Beseech the Queen"/>
+        <card number="1" price="0" name="Buried Alive"/>
+        <card number="1" price="0" name="Demonic Tutor"/>
+        <card number="1" price="0" name="Diabolic Revelation"/>
+        <card number="1" price="0" name="Dread Return"/>
+        <card number="1" price="0" name="Exhume"/>
+        <card number="1" price="0" name="Increasing Ambition"/>
+        <card number="1" price="0" name="Life's Finale"/>
+        <card number="1" price="0" name="Living Death"/>
+        <card number="1" price="0" name="Living End"/>
+        <card number="1" price="0" name="Nightmare Incursion"/>
+        <card number="1" price="0" name="Profane Command"/>
+        <card number="1" price="0" name="Reanimate"/>
+        <card number="1" price="0" name="Resurrection"/>
+        <card number="1" price="0" name="Rise from the Grave"/>
+        <card number="1" price="0" name="Unburial Rites"/>
+        <card number="1" price="0" name="Zombify"/>
+        <card number="1" price="0" name="Animate Dead"/>
+        <card number="1" price="0" name="Debtors' Knell"/>
+        <card number="1" price="0" name="Eldrazi Conscription"/>
+        <card number="1" price="0" name="Lethal Vapors"/>
+        <card number="1" price="0" name="Nevermore"/>
+        <card number="1" price="0" name="Oblivion Ring"/>
+        <card number="1" price="0" name="Phyrexian Arena"/>
+        <card number="1" price="0" name="Stony Silence"/>
+        <card number="1" price="0" name="Ancient Tomb"/>
+        <card number="1" price="0" name="Cabal Coffers"/>
+        <card number="1" price="0" name="Caves of Koilos"/>
+        <card number="1" price="0" name="Command Tower"/>
+        <card number="1" price="0" name="Fetid Heath"/>
+        <card number="1" price="0" name="Godless Shrine"/>
+        <card number="1" price="0" name="High Market"/>
+        <card number="1" price="0" name="Isolated Chapel"/>
+        <card number="1" price="0" name="Marsh Flats"/>
+        <card number="1" price="0" name="Maze of Ith"/>
+        <card number="8" price="0" name="Plains"/>
+        <card number="1" price="0" name="Scrubland"/>
+        <card number="16" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Urborg, Tomb of Yawgmoth"/>
+        <card number="1" price="0" name="Temple of the False God"/>
+        <card number="1" price="0" name="Expedition Map"/>
+        <card number="1" price="0" name="Lightning Greaves"/>
+        <card number="1" price="0" name="Unmake"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Mod Gobz</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Goblin Guide"/>
+        <card number="4" price="0" name="Goblin Chieftain"/>
+        <card number="4" price="0" name="Goblin King"/>
+        <card number="4" price="0" name="Lightning Bolt"/>
+        <card number="4" price="0" name="Goblin Grenade"/>
+        <card number="4" price="0" name="Goblin Bushwhacker"/>
+        <card number="4" price="0" name="Simian Spirit Guide"/>
+        <card number="4" price="0" name="Warren Instigator"/>
+        <card number="3" price="0" name="Sensation Gorger"/>
+        <card number="1" price="0" name="Krenko, Mob Boss"/>
+        <card number="4" price="0" name="Goblin Wardriver"/>
+        <card number="20" price="0" name="Mountain"/>
+    </zone>
+    <zone name="side">
+        <card number="3" price="0" name="Vexing Shusher"/>
+        <card number="4" price="0" name="Memnite"/>
+        <card number="4" price="0" name="Guttural Response"/>
+        <card number="4" price="0" name="Shattering Spree"/>
+    </zone>
+</cockatrice_deck>
