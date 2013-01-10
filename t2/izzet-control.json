@@ -1,0 +1,25 @@
+{
+	"mainboard": {
+		"Annihilating Fire": 3,
+		"Cancel": 4,
+		"Essence Backlash": 3,
+		"Essence Scatter": 2,
+		"Fog Bank": 4,
+		"Frostburn Weird": 3,
+		"Goblin Electromancer": 3,
+		"Island": 5,
+		"Izzet Charm": 2,
+		"Izzet Guildgate": 4,
+		"Mountain": 3,
+		"Negate": 2,
+		"Rewind": 4,
+		"Searing Spear": 3,
+		"Steam Vents": 4,
+		"Sulfur Falls": 4,
+		"Think Twice": 4,
+		"Unsummon": 3
+	},
+	"sideboard": {
+
+	}
+}
